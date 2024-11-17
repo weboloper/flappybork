@@ -1,0 +1,16 @@
+html,body {
+    margin:0;
+    padding:0;
+    height: 100vh;
+}
+#canvas
+{
+    background-color:#30c0df;
+    border: 2px solid black;
+    display: block;
+    margin: auto;
+    padding: auto;
+    width: 100%;
+    height: 100%;
+    max-width: 480px;
+}
